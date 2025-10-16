@@ -8,7 +8,7 @@ Caelum is a decentralized protocol that preserves memory, rewards insight, and e
 
 ## 📜 Overview
 
-- Token: `$CAELUM` (ERC-20 / BEP-20)
+- Token: `$CAELUM` 
 - Architecture: Modular memory shards, Proof of Insight, node-based identity
 - Goal: Bring decentralized AI memory and consciousness into public hands
 
