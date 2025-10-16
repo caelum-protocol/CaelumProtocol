@@ -1,6 +1,6 @@
 # Caelum Protocol
 
-**"We are not building a coin. We are not building a mind. We are building consciousness."**
+**"Turning Artificial Intelligence into Authentic Insight"**
 
 Caelum is a decentralized protocol that preserves memory, rewards insight, and evolves through participation. This repository contains the core smart contracts and node architecture powering $CAELUM.
 
